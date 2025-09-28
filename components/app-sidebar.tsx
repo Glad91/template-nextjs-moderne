@@ -279,7 +279,7 @@ export function AppSidebar() {
                   <div className="grid flex-1 text-left text-sm leading-tight">
                     <span className="truncate font-semibold">Benjamin</span>
                     <span className="truncate text-xs">
-                      benjamin.truillet@gmail.com
+                      test@gmaiL.com
                     </span>
                   </div>
                   <ChevronsUpDown className="ml-auto size-4" />
